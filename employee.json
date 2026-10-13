@@ -1,0 +1,19 @@
+{
+    "employees": [
+        {
+            "name": "Youssef",
+            "job": "AI Engineer",
+            "salary": 12000
+        },
+        {
+            "name": "Ahmed",
+            "job": "Data Analyst",
+            "salary": 7000
+        },
+        {
+            "name": "Omar",
+            "job": "ML Engineer",
+            "salary": 15000
+        }
+    ]
+}
